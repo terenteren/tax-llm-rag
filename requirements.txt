@@ -246,7 +246,7 @@ pexpect==4.9.0
 pi_heif==0.22.0
 pikepdf==9.11.0
 pillow==10.4.0
-pinecone-client==5.0.1
+pinecone>=5.0.0
 platformdirs==4.4.0
 posthog==6.7.4
 prometheus_client==0.22.1
